@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xQ7NKUKR2qg0jQ5uwC/giphy.gif" width="250"/>
 </div>
 
-<div id="badges" aling="center">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
