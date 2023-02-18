@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/VK-blue?url=<https://t.me/matveykatasher>&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Telegramm-blue?style=for-the-badge&logo=telegramm&logoColor=white" alt="Telegramm Badge"/>
