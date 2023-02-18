@@ -32,4 +32,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
