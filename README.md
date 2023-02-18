@@ -37,5 +37,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+</div>
