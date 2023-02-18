@@ -15,6 +15,8 @@
   </a>
 </div>
 
+---
+
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m working as a Software Engineer.
@@ -22,6 +24,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: I offer the services of a tutor in programming and physics.
 
 - :zap: In my free time, I am a student at Novosibirsk State University.
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -31,5 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
