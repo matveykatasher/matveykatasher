@@ -15,15 +15,13 @@
   </a>
 </div>
 
-<div align="center">
-    ### :woman_technologist: About Me :
-    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-    - :telescope: I’m working as a Software Engineer.
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I’m working as a Software Engineer.
 
-    - :seedling: I offer the services of a tutor in programming and physics.
+- :seedling: I offer the services of a tutor in programming and physics.
 
-    - :zap: In my free time, I am a student at Novosibirsk State University.
-</div>
+- :zap: In my free time, I am a student at Novosibirsk State University.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
