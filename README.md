@@ -1,12 +1,9 @@
-<div align="center">
-  <img height="220" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif"  />
-</div>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="centr">
   <a href="https://t.me/@Varov_M_I" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
