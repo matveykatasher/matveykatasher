@@ -41,8 +41,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matveykatasher/matveykatasher/output/snake.svg" alt="Snake animation" />
+name: Current year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.calendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_calendar: yes
 
-###
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
