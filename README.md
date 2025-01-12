@@ -44,3 +44,5 @@
 <img src="https://raw.githubusercontent.com/matveykatasher/matveykatasher/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
