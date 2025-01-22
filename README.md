@@ -7,3 +7,5 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)" alt="telegram Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/Matveykatasher&style=flat-square&color=blue" alt=""/>
