@@ -11,10 +11,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - My hobbies are solving problems and riding a bike. 🚴
 - Contacts for communication with me:
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/Varov_M_I">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://avatars.githubusercontent.com/u/1478241?s=200&v=4&logo=vk&logoColor=white" alt="vk Badge"/>
+  <a href="mailto:qtar22405@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
 </div>
