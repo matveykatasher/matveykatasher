@@ -37,3 +37,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matveykatasher&theme=catppuccin-frappe)](https://git.io/streak-stats)
