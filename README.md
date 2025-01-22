@@ -8,4 +8,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/Matveykatasher&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/matveykatasher&style=flat-square&color=blue" alt=""/>
