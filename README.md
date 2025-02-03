@@ -32,8 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### My Stats :
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=matveykatasher&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -46,9 +45,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </picture>
 
 ---
-
+<h2 align="center">
 ![Matveykatasher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matveykatasher&theme=dark&hide_border=false)
-
+</h2>
 ---
-
+<h2 align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=dark)
+</h2>
