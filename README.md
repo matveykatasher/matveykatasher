@@ -45,6 +45,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github-readme-stats.vercel.app/api?username=matveykatasher&show_icons=true" />
 </picture>
 
-![Matveykatasher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matveykatasher&theme=vue-dark&hide_border=false)
+![Matveykatasher's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matveykatasher&theme=dark&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matveykatasher&layout=compact&theme=dark)
